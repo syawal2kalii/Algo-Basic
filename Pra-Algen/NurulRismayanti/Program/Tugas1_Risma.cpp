@@ -36,7 +36,7 @@ int main(){
 	cout<<"Y/N: ";
 	cin>>condition;	
 	n++;
-	} while(condition!='n' || 'N');
+	} while(condition!='n');
 	string cari;
 	    cout<<"Masukkan Cari: ";
 	    cin>>cari;
