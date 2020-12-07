@@ -5,7 +5,7 @@
 
 using namespace std;
 
-string input [15];
+string input [20];
 int hasil[5];
 
 int konversiDes(int bin)
